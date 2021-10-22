@@ -1,0 +1,49 @@
+Step-1: create new folder with name rasa
+Step-2: open that folder in pycharm
+Step-3: now create new env in pycharm by file>setting>project name>python interpeter> setting>add new> now select new enc with coda and pytohn version 3.7
+Step-4: now in the terminal activate your env and run these commands one by one in sequence
+Step-5: pip install rasa-x==0.32.2 --extra-index-url https://pypi.rasa.com/simple
+Step-6: pip install spacy
+Step-7: python -m spacy download en
+Step-8: python -m spacy download en_core_web_md
+Step-9: python -m spacy download en_core_web_md
+Step-10: rasa init
+Step-11: rasa shell (for starting chatbot in the terminal itself)
+Step-12: rasa x (for starting chatbot in the browser)
+Step-13: rasa train (after adding new intents to train rasa again use this command and use above commands to again run the chatbot)
+NewApp
+Asweatybot
+
+
+Rasa Commands
+1. rasa init
+2. rasa shell
+3. rasa x
+4. rasa train
+5. rasa run
+
+RASA official DOCS is very good source.
+
+1. download the visual studio17 version v15.0, or visual studio15 v14.0, or visual studio19 and go inside the build tools and downlod the 14.0 version tools
+2. create a new folder in your system 
+3. create a new env with your anaconda prompt or with your pycharm
+4. install dependeices for RASA pip install rasa-x(it will give you error use different one) pip install rasa-x -i https://pypi.rasa.com/simple
+5. download the spacy library(3 library are there)
+   pip install spacy   
+   python -m spacy download en
+   python -m spacy download en_core_web_md
+   python -m spacy link en_core_web_md en
+
+6. rasa init(for creating the structure)
+   data
+     story
+     NLU
+   model
+     pre trained model
+     user trained model 
+   rest of the file(domain.yml,action.py etc )
+   one manually create file(in my chatbot weatherbot)
+7. rasa train(changes in data file and run)
+8. for testing there are two ways
+    rasa shell(this is for simple command prompt)(It will up your server)
+    r

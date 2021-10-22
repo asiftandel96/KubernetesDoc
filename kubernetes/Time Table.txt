@@ -1,0 +1,92 @@
+14th June-31st July(47 Days)
+Python
+Statistics
+Machine Learning Algorithms and Techniques
+LifeCycle of A Data Science Project
+Deployment(Heroku)
+Docker
+Kubernetes
+14th June-20th June
+1)Complete Statistics Theory
+2)Complete Theory Of All Supervised Learning Algorithms(with Hand Written Notes)
+-Linear Regression,Logistic Regression,KNN Algo,Decision Tree,Random Forest 
+3)Complete 5 Use-Cases(LifeCycle of A Data Science Project)
+
+21st June-27th June
+1)Complete Theory of Remaining Supervised Learning + UnSupervised Learning Algorithms
+Gradient-Boosting,AdaBoost,XGBoost,Naive Bayes,SVM
+2)Complete 10 Use-Cases of SuperVised Learning Approach
+
+
+28th June-4th July
+1)Complete Theory of All UnSupervised Learning Approach
+K-means,k-means++,Hierarchical Clustering,PCA,DBSCAN
+1)Complete 5 Use-Cases of SuperVised Learning Algorithm
+2)Complete 5 Use-Cases of UnSuperVised Learning Algorithm
+
+
+5th July-11 July
+1)Getting Started with Text Data(Very Important Topic)-NLP
+2)Complete 5 Use-Case of SuperVised Learning Algorithms
+3)Complete 3 Use-Case of UnSuperVised Learning Algorithms
+
+12th July-18th July:-
+1)Complete 5 Use-Case of Text Data
+2)Complete 10 Use-Case of Machine Learning Algorithms
+
+19th July-25th July:-
+1)Learning Flask and Deploying A Simple App on Heroku(Any Use-Cases)Regression or Classification-4 Application
+2)Dockerize the Application
+3)Complete 5 Use-Case of Text Data
+
+26th July-31st July
+1)Resume Building(2 Days)
+2)Interview Preparation(2 Days)
+3)Github Documentation(2 Days)
+
+1st August-7th August
+1)Complete 5-6 Use-Case of Text Data
+2)Complete 5 Use-Case of SuperVised and UnSuperVised Learning Algorithms
+3)Allocate 2 hour for Job-Search/each day
+
+8 August-14th August
+1)Deploying Some Project of Classification|Regression|Clustering|Text Data on Heroku-2 Application(Document it on Github)-Dockerize the Application
+2)Complete  5 Use-Case of  SuperVised and UnSuperVised Learning Algorithms
+3)Allocate 2 hours For Job-Search/each day
+
+15th August-31th August
+1)Deep Learning Algorithms like ANN,CNN,RNN
+2)Implementation of Algorithm with existing Use-Case and improve the Processs
+3)Allocate 2 hours For Job-Search/each day
+
+1st September-7th September
+1)Complete 5-6 Use-Case of Regression and Classification with the help of Deep Learning Techniques
+2)Deploying Some Application of Machine Learning on Heroku(Dockerize the Application)
+3)Allocate 2 hours For Job-Search/each day
+
+8th September-14th September
+1)Complete 4 Use-Cases with the help of ML and DL of SuperVised Learning Approach
+
+15th September-21st September
+1)Complete 3 Use-Case of Text Data with the help of RNN
+2)Complete 3 Use-Case of SuperVised Approach with ML and DL
+
+22nd September-30th September
+1)Complete 10 UseCase with Text and SuperVised Approach
+
+1st October-7th October
+1)Deploying first Deep Learning Project on Heroku(SuperVised Approach)- 1 App
+2)Deploying ML Project on Heroku(Text Data)-2 App
+
+8th October-15th October
+1)Deploying first Text Classification using Deep Learning-1 App
+2)Deploying ML Project on Heroku(Text Data)-2 App
+
+16th October-30th October
+1)Learning More Advance Algorithms(Time-Series Analysis),LSTM,Bi-Directional LSTM etc
+2)Implementing All the Process of that Algorithms and Comparing it with existing Algorithms
+
+1st November-30th November
+1)Complete 10 Use-Cases with help of ML and DL Algorithms
+2)Deploying 5 App on Heroku
+3)Improve the Process with the help of Github Actions
